@@ -1,0 +1,17 @@
+PENDETEKSI PLAGIARISME
+Aplikasi Web Deteksi Plagiarisme
+
+Copyright (c) 2025 Rifqirabbani Aswin
+Email: rifqirabbani15@gmail.com
+
+Hak Cipta Dilindungi / All Rights Reserved
+
+Aplikasi ini merupakan karya orisinal dan milik Rifqirabbani Aswin.
+Dilarang menggandakan, mendistribusikan, memodifikasi, atau
+menggunakan ulang sebagian maupun seluruh kode, desain, dan
+konten aplikasi ini tanpa izin tertulis dari pemilik.
+
+This application is the original work and property of Rifqi Rabbani.
+Unauthorized copying, distribution, modification, or reuse of any
+part or all of this application's code, design, and content is
+prohibited without written permission from the owner.
