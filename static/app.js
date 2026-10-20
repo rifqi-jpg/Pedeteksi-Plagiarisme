@@ -1,5 +1,14 @@
 // Copyright (c) 2026 Rifqi Rabbani. All rights reserved.
 
+// Sidebar navigation
+const views = { analysis: document.getElementById('analysisView'), history: document.getElementById('historyView'), guide: document.getElementById('guideView') };
+document.querySelectorAll('[data-view]').forEach(item => {
+  item.addEventListener('click', () => {
+    document.querySelectorAll('[data-view]').forEach(nav => nav.classList.toggle('active', nav === item));
+    Object.entries(views).forEach(([name, view]) => view.classList.toggle('hidden', name !== item.dataset.view));
+  });
+});
+
 // Tab switching
 document.querySelectorAll('.tab-btn').forEach(btn => {
   btn.addEventListener('click', () => {

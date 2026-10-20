@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Rujuk logo</title>
+  <desc id="desc">Two overlapping document sheets connected by a small reference mark</desc>
+  <rect width="64" height="64" rx="16" fill="#cdebdc"/>
+  <path d="M19 14h17l8 8v25H19a4 4 0 0 1-4-4V18a4 4 0 0 1 4-4Z" fill="#1b2924"/>
+  <path d="M36 14v10h8" fill="none" stroke="#cdebdc" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M23 31h15M23 37h10" fill="none" stroke="#cdebdc" stroke-width="2.5" stroke-linecap="round" opacity=".75"/>
+  <circle cx="40" cy="42" r="8" fill="#2f7d5a" stroke="#cdebdc" stroke-width="2.5"/>
+  <path d="m36.5 42 2.5 2.5 4.8-5" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
